@@ -1,0 +1,20 @@
+#ahorcado_img{
+	height: 318px;
+	width: 200px;
+	background-image: url('./ahorcado-1024x212.png');
+	background-repeat: no-repeat;
+}
+
+.resultado {
+	display: none;
+	font-size: 5rem;
+	position: fixed;
+	left: 35vw;
+}
+
+.resultado2 {
+	display: none;
+	font-size: 5rem;
+	position: fixed;
+	left: 35vw;
+}
